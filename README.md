@@ -42,9 +42,10 @@ Esse projeto é um gerador de wordlist baseado em informações pessoais, como n
 
 ## 👷 Collaborators
 
-1. **Felipe Braiani** - *Developer/[CEO of BR tech Sistemas](https://brtechsistemas.com.br/)* - [Braiani](https://github.com/Braiani)
+1. **Felipe Braiani** - *Developer / [CEO of BR tech Sistemas](https://brtechsistemas.com.br/)* - [Braiani](https://github.com/Braiani)
 2. **Enzo Guenka Lopes** - *Developer* - [Hawstyyy](https://github.com/Hawstyyy)
 3. **Rafael Montiel** - *Developer* - [Vatreax](https://github.com/Vatreax)
+4. **Filipe Oliveira** - *Developer* - [OSepiliF](https://github.com/OSepiliF)
 
 
 ## 📄 License
