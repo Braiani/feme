@@ -1,6 +1,7 @@
 import Export as Exporter
 import Questions
 import Utils
+import Generator
 
 
 string_list = []
@@ -12,11 +13,12 @@ def show_menu(show_draw=True):
         Utils.Utils().show_draw()
 
     print('''
-    +-------------------------+
-    | 1. Start Generation     |
-    | 2. Show List of Answers |
-    | 3. Exit                 |
-    +-------------------------+
+    +-------------------------------+
+    | 1. Start Generation           |
+    | 2. Show List of Answers       |
+    | 3. Generate Random Password   |
+    | 4. Exit                       |
+    +-------------------------------+
     ''')
 
 
