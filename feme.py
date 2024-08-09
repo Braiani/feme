@@ -1,7 +1,7 @@
 import Export as Exporter
 import Questions
 import Utils
-import Generator
+from Generator import Generator
 
 
 string_list = []
@@ -58,7 +58,9 @@ if __name__ == '__main__':
                 print('String list:', string_list)
                 print('Numbers list:', numbers_list)
             elif choice == '3':
-                break
+                Generator.randonPassGenerator()
+            elif choice == '4':
+                raise KeyboardInterrupt
             else:
                 print('Invalid choice')
     except Exception as e:
