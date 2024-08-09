@@ -1,4 +1,5 @@
-# Projeto "Feme" - Gerador de Wordlist a partir de informações pessoais | Project "Feme" - Wordlist generator from personal information
+<h1 align=center> Projeto "Feme" - Gerador de Wordlist a partir de informações pessoais | Project "Feme" - Wordlist generator from personal information</h1>
+
 
 ![GitHub issues](https://badgen.net/github/issues/Braiani/feme)
 ![GitHub Release](https://badgen.net/github/release/Braiani/feme)
@@ -9,7 +10,7 @@
 
 
 
-## 📝 Table of Contents
+<h1 align=center> 📝 Table of Contents </h1>
 
 - [🔥 Description of the project](#-description-of-the-project) | [Descrição do projeto](#-description-of-the-project) 
 - [🚀 How to use](#-how-to-use) | [Como usar](#-how-to-use)
@@ -19,13 +20,13 @@
 - [💡 Support](#-support) | [Suporte](#-support)
 
 
-## 🔥 Description of the project
+<h2 align=center> 🔥 Description of the project </h2>
 
 This project is a wordlist generator based on personal information, such as name, date of birth, and other information that can be used to generate a wordlist for brute force attacks.
 
 Esse projeto é um gerador de wordlist baseado em informações pessoais, como nome, data de nascimento, e outras informações que podem ser usadas para gerar uma wordlist para ataques de força bruta.
 
-## 🚀 How to use
+<h2 align=center> 🚀 How to use </h2>
 
 1. Clone the repository | Clone o repositório
 2. Install the requirements | Instale as dependências
@@ -36,11 +37,13 @@ Esse projeto é um gerador de wordlist baseado em informações pessoais, como n
 7. Enjoy! | Aproveite!
 
 
-## 📦 What we use here:
+<h2 align=center> 📦 What we use here </h2>
 
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://python.org/) [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/pt-br/windows/)
+- [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://python.org/)
+- [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) 
+- [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/pt-br/windows/)
 
-## 👷 Collaborators
+<h2 align=center> 👷 Collaborators </h2>
 
 1. **Felipe Braiani** - *Developer / [CEO of BR tech Sistemas](https://brtechsistemas.com.br/)* - [Braiani](https://github.com/Braiani)
 2. **Enzo Guenka Lopes** - *Developer* - [Hawstyyy](https://github.com/Hawstyyy)
@@ -48,14 +51,14 @@ Esse projeto é um gerador de wordlist baseado em informações pessoais, como n
 4. **Filipe Oliveira** - *Developer* - [OSepiliF](https://github.com/OSepiliF)
 
 
-## 📄 License
+<h2 align=center> 📄 License </h2>
 
 This repository is licensed under MIT License, you can see more details on [LICENSE.md](https://github.com/link_da_licenca).
 
 Essa aplicação está sob a licença MIT. Veja o arquivo [LICENSE.md](https://github.com/link_da_licenca).
 
 
-## 💡 Support
+<h2 align=center> 💡 Support </h2>
 
 * If you want to support the project, you can either open an PR or e-mail me [felipe@brtechsistemas.com.br](mailto:felipe@brtechsistemas.com.br). | Se você deseja suportar o projeto, você pode abrir um PR ou me enviar um e-mail [felipe@brtechsistemas.com.br](mailto:felipe@brtechsistemas.com.br).
 * Connect with me on my linkedIn [Felipe Braiani](https://www.linkedin.com/in/felipe-gustavo-braiani-santos/) | Conecte-se comigo no meu linkedIn [Felipe Braiani](https://www.linkedin.com/in/felipe-gustavo-braiani-santos/)
